@@ -1,7 +1,7 @@
 # Structural Selectivity for Efficient, Label-Free Alert Correlation in Network Intrusion Detection
 
 Code accompanying the AI4DEMONS'26 (CIKM 2026 workshop) short research statement by
-Amangel (Daisy) Bhullar and Ziad Kobti, University of Windsor.
+Amangel Bhullar and Ziad Kobti, University of Windsor.
 
 ## Overview
 
